@@ -9,4 +9,4 @@ Rashidddtt/Rashidddtt is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 I'm here because I'm want to Learning python
-And fix my problems and thx everyone 
+And fix my problems and thanks everyone 
